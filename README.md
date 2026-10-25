@@ -27,9 +27,9 @@
    | --- | --- |
    | `DB_HOST` | Host จาก TiDB Cloud |
    | `DB_PORT` | Port จาก TiDB Cloud (โดยทั่วไป `4000`) |
-   | `DB_USER` | Username จาก TiDB Cloud |
+   | `DB_USERNAME` | Username จาก TiDB Cloud |
    | `DB_PASSWORD` | Password จาก TiDB Cloud |
-   | `DB_NAME` | `dit205_db` |
+   | `DB_DATABASE` | `dit205_db` |
    | `DB_SSL` | `true` |
    | `JWT_SECRET` | สุ่ม secret ใหม่ที่ยาวอย่างน้อย 32 ตัวอักษร |
 
